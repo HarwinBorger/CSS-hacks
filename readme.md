@@ -10,7 +10,7 @@
 
 # Flexbox
 
-## Flexible <Table> in fixed flexbox width combined with `overflow: scroll` on the table
+## Flexible `<Table>` in fixed flexbox width combined with `overflow: scroll` on the table
   
 
 In some situations you have a fixed content, meaning some of the sizes are fixed some are 
