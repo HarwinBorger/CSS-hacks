@@ -7,6 +7,7 @@
 - Apply `transform: translateZ(0);` on the container element
 - Apply `-webkit-mask-image: -webkit-radial-gradient(white, black);` on the container element
 
+
 # Flexbox
 
 ## Flexible <Table> in fixed flexbox width combined with `overflow: scroll` on the table
