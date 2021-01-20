@@ -12,6 +12,7 @@
 
 ## Flexible <Table> in fixed flexbox width combined with `overflow: scroll` on the table
   
+
 In some situations you have a fixed content, meaning some of the sizes are fixed some are 
 flexible. If you want to have a table element inside there it may happen that the scaling of you layout goes wrong
 
