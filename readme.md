@@ -14,6 +14,6 @@
   
 
 In some situations you have a fixed content, meaning some of the sizes are fixed some are 
-flexible. If you want to have a table element inside there it may happen that the scaling of you layout goes wrong
+flexible. If you want to have a table element inside there it may happen that the scaling of your layout goes wrong
 
 - Add `margin-right: -9999px;` on the table element
